@@ -22,7 +22,7 @@
 		2）点击菜单栏Branch，merge into current branch,在弹出的对话框里面选择要合并的分支，并点击Merge into master
 		3）此时在主master的history里面可以看到分支里面修改的内容，此时可以将其他分支删除。
 	分支删除的方法：
-		1）将current branch切换至要删除的分支
-		2）点击菜单栏的Branch里面的Delete，即可删除
-		注意：主分支往往是默认存在不能够删除的
+				1）将current branch切换至要删除的分支
+				2）点击菜单栏的Branch里面的Delete，即可删除
+			注意：主分支往往是默认存在不能够删除的
 	
