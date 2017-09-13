@@ -1,4 +1,3 @@
 #This is my first github
 n=input()
-m=list(map(int,input().split()))
-print(n,m)
+print(n)
