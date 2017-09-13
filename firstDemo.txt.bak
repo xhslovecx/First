@@ -1,7 +1,7 @@
-#This is my first github
+ï»¿#This is my first github
 n=input()
 if n%2==0:
-	print('%d ÊÇÅ¼Êı'%n)
+	print('%d æ˜¯å¶æ•°'%n)
 else:
-	print('%d ÊÇÆæÊı'%n)
+	print('%d æ˜¯å¥‡æ•°'%n)
 print(n)
