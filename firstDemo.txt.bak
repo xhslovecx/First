@@ -1,4 +1,7 @@
 #This is my first github
 n=input()
-m=list(map(int,input().split()))
-print(n,m)
+if n%2==0:
+	print('%d 是偶数'%n)
+else:
+	print('%d 是奇数'%n)
+print(n)
